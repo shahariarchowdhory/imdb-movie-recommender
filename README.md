@@ -43,5 +43,3 @@ Make sure you have the following installed:
     Alternatively, you can use the provided scripts for easier access:
     For Windows: Run WINDOWS_RUN.cmd
     For Linux: Run LINUX_RUN.sh
-
-For model and dataset exploration, you can access them in the Model_Creation folder. 

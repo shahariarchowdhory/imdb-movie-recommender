@@ -35,8 +35,6 @@ Make sure you have the following installed:
     Due to file size limitations of Github, I failed to upload the .pkl files. However, I have attached the script that creates those files. You can explore the dataset via the pre-made "movie_recom.ipynb" or you can create the ".pkl" in instant via running
     ```bash
     python run_me.py
-
-
 3. **For Deployment** 
     ```bash
     streamlit run app.py
